@@ -61,7 +61,7 @@
 .tabs-newtab-button:hover .toolbarbutton-icon {
    border-radius:0 !important;
 }
-#urlbar-background{
+#urlbar-background, #urlbar, .urlbar-background{
 	background-color:var(--urlbar-bg) !important;
     outline: none !important;
     border:none !important;
@@ -99,6 +99,9 @@
 
 .autoscroller {
   background-image: size_all.png !important;
+}
+#urlbar-searchmode-switcher {
+	background-color: transparent !important;
 }
 
 
