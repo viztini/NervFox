@@ -1,8 +1,9 @@
-CSS styles to give firefox a Chicago95 / Windows 95/98 look & feel
-Includes firefox quantum logo* for tabs and homepage. 
+### NervFox
 
-![ff95](https://github.com/osem598/Firefox-98/assets/67332812/780f79d7-d26b-4129-be1c-6bb1b4a277ef)
+A Neon Genesis Evangelion–inspired Firefox theme
 
-**Firefox branding from mozilla. Licence: https://creativecommons.org/licenses/by/3.0/*
+Retro Win95/98 look with NERV styling for Firefox. Includes Firefox Quantum logo* and alternate color schemes in colors.txt.
 
-other colors available in colors.txt file
+Forked from Firefox-98
+
+Firefox branding © Mozilla Licensed under CC BY 3.0
